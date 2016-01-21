@@ -1,6 +1,6 @@
 ![Baidu Logo](/doc/baidu-research-logo-small.png)
 #Hello CTC
-Vie
+Vie 百度人工智能
 
 # warp-ctc
 
